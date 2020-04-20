@@ -1,0 +1,6 @@
+echo "# CA-State-Totals-COVID" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Zealand24/CA-State-Totals-COVID.git
+git push -u origin master
